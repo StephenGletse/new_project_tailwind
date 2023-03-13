@@ -1,0 +1,32 @@
+/* body{
+    background: #FFEBFB;
+} */
+
+/* .hide{
+    @apply hidden;
+} */
+
+.bg{
+    background: #ffebfbb5;
+}
+
+.bg2{
+    background: rgba(251, 248, 248, 0.872);
+}
+
+.card {
+    background-color: theme('colors.white');
+    border-radius: theme('borderRadius.lg');
+    padding: theme('spacing.6');
+    box-shadow: theme('boxShadow.xl');
+}
+
+.icon {
+    width: 40px;
+    height: 40px;
+}
+
+.icon2{
+    width: 80px;
+    height: 80px;
+}
